@@ -19,3 +19,6 @@ and provide useful insights to the Telangana government that would help them mak
 ⭐ PowerBI: Dashboard
 ⭐ Canva: Graphics
 ⭐ ClipChamp: Video Editing
+
+# Questions:
+![Untitled design](https://github.com/saisubhamjena/Telengana_state_analysis/assets/124357451/50da89e3-266e-4cfb-a770-38d2ca4c1bf2)
